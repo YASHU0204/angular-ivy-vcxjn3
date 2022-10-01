@@ -1,0 +1,25 @@
+body{
+  height:750px;
+  width:500px;
+}
+#p1 {
+  color: #ffffff;
+  font-family: 'Red Hat Display';
+  font-size: 25px;
+}
+#p2 {
+  color: #ffffff;
+
+  font-family: 'Red Hat Display';
+  font-size: 45px;
+}
+#p3 {
+  color: #ffffff;
+  font-family: 'Red Hat Display';
+  font-size: 15px;
+}
+#p4 {
+  color: #ffffff;
+  font-family: 'Red Hat Display';
+  font-size: 25px;
+}
